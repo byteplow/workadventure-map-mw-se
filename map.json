@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/byteplow.github.io\/workadventure-map-mw-se\/map.json#elevator"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/byteplow.github.io\/workadventure-map-mw-se\/floor2.json#elevator"
                 }],
          "type":"tilelayer",
          "visible":true,
